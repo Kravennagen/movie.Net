@@ -9,10 +9,10 @@ Votre logiciel doit fournir une fonction de recherche avancée permettant d'effe
 <h3>Gestion des utilisateurs :</h3>
 Vous devez mettre en place un système d'authentification permettant aux utilisateurs de créer un compte, de pouvoir le modifier et s’authentifier sur le logiciel pour pouvoir utiliser ce dernier.
 
-Consulter la fiche d'un film.
-Ajouter, supprimer et modifier un film.
-Noter et commenter celui-ci.
-Effectuer des recherches.
+Consulter la fiche d'un film.<br>
+Ajouter, supprimer et modifier un film.<br>
+Noter et commenter celui-ci.<br>
+Effectuer des recherches.<br>
 <h3>Gestion des notes et des commentaires :</h3>
 Les utilisateurs doivent pouvoir ajouter des commentaires sur la fiche d'un film et attribuer une note à celui-ci. L'ensemble des commentaires et la moyenne des notes d'un film doivent apparaitre sur la fiche du film en question.
 
@@ -20,9 +20,9 @@ Les utilisateurs doivent pouvoir ajouter des commentaires sur la fiche d'un film
 <h3>Architecture :</h3>
 <h4>Votre logiciel devra être composé (au minimum) de deux projets:</h4>
 
-Un projet WPF qui contiendra l'interface du logiciel.
-Un projet qui servira à manipuler les données.
-Interface graphique :
+Un projet WPF qui contiendra l'interface du logiciel.<br>
+Un projet qui servira à manipuler les données.<br>
+<h3>Interface graphique :</h3>
 Votre projet WPF devra utiliser le pattern MVVM (le code-behind étant interdit).
 
 <h3>Manipulation des données :</h3>
